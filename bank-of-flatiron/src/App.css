@@ -1,4 +1,4 @@
-/* CSS for the Trans component */
+
 .transactions-container {
   display: block;
   text-align: center;
@@ -12,9 +12,9 @@
   height: 300px;
 }
 
-/* CSS for the Form component */
+
 .form-container {
-  /* Form Block */
+ 
   display: block;
   margin: 0 auto;
   width: 80%;
@@ -59,9 +59,9 @@
   background-color: #ff771c;
 }
 
-/* CSS for the Filter component */
+
 .filter-container {
-  /* Filter Block */
+  
   display: block;
   text-align: center;
   width: 80%;
